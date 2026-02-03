@@ -36,8 +36,11 @@
   - [x] Setup sccache for faster builds
   - [x] UAC manifest for admin elevation
   - [x] Fix capabilities mismatch (hw-monitor → lhm-sidecar)
+  - [x] Build production installer (NSIS)
+    - [x] LZMA compression
+    - [x] Install mode: currentUser
+    - [x] Auto-create Desktop & Start Menu shortcuts
   - [ ] Test accuracy vs Windows Task Manager
-  - [ ] Build production installer (NSIS)
 
 - [ ] **Phase 6: FPS Tracking (Future)**
   - [ ] Research RTSS/PresentMon integration
